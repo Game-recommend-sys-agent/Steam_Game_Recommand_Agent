@@ -1,0 +1,28 @@
+{
+  "image_caption": "The image shows the title 'UNDERTALE' in blocky white letters on a black background, with a small red pixelated heart replacing the symbol in the letter 'A'.",
+  "visual_keywords": [
+    "blocky font",
+    "white text",
+    "black background",
+    "pixelated heart",
+    "red heart",
+    "game title",
+    "simple design"
+  ],
+  "primary_character": {
+    "character_id": "char_1",
+    "salience_reason": "The image only features text; no characters are present.",
+    "visual_cues": {
+      "species_traits": [],
+      "face_features": [],
+      "facial_expression": [],
+      "body_traits": [],
+      "hair_traits": [],
+      "clothing_style": [],
+      "visual_color": [],
+      "props_or_accessories": []
+    }
+  },
+  "salient_characters": [],
+  "appid": 391540
+}

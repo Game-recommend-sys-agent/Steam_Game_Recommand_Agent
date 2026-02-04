@@ -1,0 +1,82 @@
+{
+  "image_caption": "Two armed characters in tactical gear with orange-tinted goggles stand against a white and orange background with the text '2 COUNTER STRIKE'.",
+  "visual_keywords": [
+    "two characters",
+    "tactical gear",
+    "orange goggles",
+    "guns",
+    "black clothing",
+    "orange and white background",
+    "text",
+    "silhouetted figures"
+  ],
+  "primary_character": {
+    "character_id": "char_1",
+    "salience_reason": "most visually emphasized on left with weapon pointed forward",
+    "visual_cues": {
+      "species_traits": [
+        "human"
+      ],
+      "face_features": [
+        "covered face with goggles"
+      ],
+      "facial_expression": [
+        "neutral (face not visible)"
+      ],
+      "body_traits": [
+        "muscular build",
+        "dynamic pose"
+      ],
+      "hair_traits": [
+        "covered by helmet"
+      ],
+      "clothing_style": [
+        "tactical gear",
+        "helmet"
+      ],
+      "visual_color": [
+        "black",
+        "orange goggles"
+      ],
+      "props_or_accessories": [
+        "rifle",
+        "helmet",
+        "vest"
+      ]
+    }
+  },
+  "salient_characters": [
+    {
+      "character_id": "char_2",
+      "salience_reason": "second character on the right with orange goggles and visible rifle",
+      "visual_cues": {
+        "species_traits": [
+          "human"
+        ],
+        "face_features": [
+          "covered face with goggles"
+        ],
+        "facial_expression": [
+          "neutral (face not visible)"
+        ],
+        "body_traits": [
+          "standing pose"
+        ],
+        "hair_traits": [
+          "short hair or covered"
+        ],
+        "clothing_style": [
+          "tactical gear"
+        ],
+        "visual_color": [
+          "black",
+          "orange goggles"
+        ],
+        "props_or_accessories": [
+          "rifle"
+        ]
+      }
+    }
+  ],
+  "appid": 730
+}

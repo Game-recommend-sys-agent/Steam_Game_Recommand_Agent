@@ -1,0 +1,41 @@
+{
+  "user_input": "우는 게 예쁠 것 같은 어두운 분위기의 여성 캐릭터 추천해줘",
+  "visual_cues": {
+    "species_traits": [
+      "human"
+    ],
+    "face_features": [
+      "delicate features",
+      "tear streaks",
+      "pale skin"
+    ],
+    "facial_expression": [
+      "teary eyes",
+      "slightly open mouth",
+      "sad expression"
+    ],
+    "body_traits": [
+      "slim build",
+      "slightly hunched posture"
+    ],
+    "hair_traits": [
+      "long hair",
+      "dark color",
+      "messy or tousled"
+    ],
+    "clothing_style": [
+      "dark-colored clothes",
+      "flowy or loose fitting",
+      "possibly layered"
+    ],
+    "visual_color": [
+      "dark tones",
+      "blues",
+      "grays",
+      "black"
+    ],
+    "props_or_accessories": [
+      "none or minimal"
+    ]
+  }
+}

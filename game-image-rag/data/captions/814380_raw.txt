@@ -1,0 +1,30 @@
+```json
+{
+  "image_caption": "A warrior with a sword strapped on his back faces a large traditional Japanese building under a cloudy sky, with fire burning in the foreground.",
+  "visual_keywords": [
+    "warrior",
+    "sword",
+    "traditional architecture",
+    "fire",
+    "cloudy sky",
+    "back view",
+    "dark clothing",
+    "top knot hairstyle"
+  ],
+  "primary_character": {
+    "character_id": "char_1",
+    "salience_reason": "Center foreground figure facing the structure, largest and most detailed character",
+    "visual_cues": {
+      "species_traits": ["human"],
+      "face_features": [],
+      "facial_expression": [],
+      "body_traits": ["muscular", "medium build"],
+      "hair_traits": ["black", "top knot hairstyle"],
+      "clothing_style": ["traditional warrior armor", "dark clothing"],
+      "visual_color": ["dark tones", "brown", "black"],
+      "props_or_accessories": ["sword strapped on back"]
+    }
+  },
+  "salient_characters": []
+}
+```

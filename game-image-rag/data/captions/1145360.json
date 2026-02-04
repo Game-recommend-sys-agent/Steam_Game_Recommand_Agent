@@ -1,0 +1,54 @@
+{
+  "image_caption": "A muscular male character with black hair, red eyes, and a dynamic pose is holding a decorated sword, set against a dark background with orange and red accents and the title 'HADES' above.",
+  "visual_keywords": [
+    "muscular",
+    "black hair",
+    "red eyes",
+    "sword",
+    "dynamic pose",
+    "dark background",
+    "orange accents",
+    "red accents",
+    "arm bands",
+    "ancient weapon",
+    "sharp eyes"
+  ],
+  "primary_character": {
+    "character_id": "char_1",
+    "salience_reason": "Most visually emphasized by central position, size, and dynamic pose.",
+    "visual_cues": {
+      "species_traits": [
+        "human"
+      ],
+      "face_features": [
+        "sharp eyes",
+        "red eyes"
+      ],
+      "facial_expression": [
+        "serious"
+      ],
+      "body_traits": [
+        "muscular",
+        "dynamic pose"
+      ],
+      "hair_traits": [
+        "black hair",
+        "spiky hairstyle"
+      ],
+      "clothing_style": [
+        "arm bands",
+        "minimal clothing"
+      ],
+      "visual_color": [
+        "black",
+        "red",
+        "orange"
+      ],
+      "props_or_accessories": [
+        "decorated sword"
+      ]
+    }
+  },
+  "salient_characters": [],
+  "appid": 1145360
+}

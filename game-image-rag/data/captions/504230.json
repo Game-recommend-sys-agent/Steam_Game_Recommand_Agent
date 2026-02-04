@@ -1,0 +1,107 @@
+{
+  "image_caption": "A video game poster for 'Celeste' featuring a character in a light blue jacket reaching forward, a winged strawberry creature, and a person sitting in the background with magenta hair.",
+  "visual_keywords": [
+    "light blue jacket",
+    "red hair",
+    "winged strawberry",
+    "mountain logo",
+    "purple clothing",
+    "night setting",
+    "stone wall background",
+    "dynamic pose",
+    "long hair",
+    "animated style"
+  ],
+  "primary_character": {
+    "character_id": "char_1",
+    "salience_reason": "Positioned prominently in the foreground with a dynamic reaching pose and bright coloring",
+    "visual_cues": {
+      "species_traits": [
+        "human"
+      ],
+      "face_features": [
+        "large eyes",
+        "eyebrows"
+      ],
+      "facial_expression": [
+        "determined"
+      ],
+      "body_traits": [
+        "slim build",
+        "dynamic pose"
+      ],
+      "hair_traits": [
+        "long",
+        "red/orange"
+      ],
+      "clothing_style": [
+        "light blue jacket"
+      ],
+      "visual_color": [
+        "red/orange hair",
+        "light blue clothing"
+      ],
+      "props_or_accessories": []
+    }
+  },
+  "salient_characters": [
+    {
+      "character_id": "char_2",
+      "salience_reason": "Distinctive winged strawberry creature flying near the center",
+      "visual_cues": {
+        "species_traits": [
+          "fruit-like",
+          "wings"
+        ],
+        "face_features": [
+          "small eyes",
+          "crown-like top"
+        ],
+        "facial_expression": [
+          "neutral"
+        ],
+        "body_traits": [],
+        "hair_traits": [],
+        "clothing_style": [],
+        "visual_color": [
+          "red",
+          "white wings",
+          "green top"
+        ],
+        "props_or_accessories": []
+      }
+    },
+    {
+      "character_id": "char_3",
+      "salience_reason": "Person sitting on the left side with distinct magenta hair and purple clothing",
+      "visual_cues": {
+        "species_traits": [
+          "human"
+        ],
+        "face_features": [
+          "visible eyes",
+          "eyebrows"
+        ],
+        "facial_expression": [
+          "neutral"
+        ],
+        "body_traits": [
+          "seated"
+        ],
+        "hair_traits": [
+          "short",
+          "magenta"
+        ],
+        "clothing_style": [
+          "purple clothes"
+        ],
+        "visual_color": [
+          "magenta hair",
+          "purple clothing"
+        ],
+        "props_or_accessories": []
+      }
+    }
+  ],
+  "appid": 504230
+}

@@ -1,0 +1,100 @@
+{
+  "image_caption": "A group of animated characters posing together with the title 'Persona 5 Royal' on a black and red background with light effects.",
+  "visual_keywords": [
+    "anime style",
+    "group pose",
+    "dynamic lighting",
+    "varied hairstyles",
+    "red and black theme",
+    "stylish clothing",
+    "diverse character designs",
+    "shiny effects",
+    "close-up and distance mix"
+  ],
+  "primary_character": {
+    "character_id": "char_1",
+    "salience_reason": "Centered in the foreground and larger in size than other characters, drawing the most visual attention.",
+    "visual_cues": {
+      "species_traits": [
+        "human"
+      ],
+      "face_features": [
+        "sharp eyes"
+      ],
+      "facial_expression": [
+        "serious"
+      ],
+      "body_traits": [
+        "slim build",
+        "dynamic pose"
+      ],
+      "hair_traits": [
+        "black hair",
+        "short spiky style"
+      ],
+      "clothing_style": [
+        "black blazer with red accents"
+      ],
+      "visual_color": [
+        "black",
+        "red"
+      ],
+      "props_or_accessories": []
+    }
+  },
+  "salient_characters": [
+    {
+      "character_id": "char_2",
+      "salience_reason": "Distinctive bright red hair and position close to the primary character.",
+      "visual_cues": {
+        "species_traits": [
+          "human"
+        ],
+        "face_features": [],
+        "facial_expression": [
+          "neutral"
+        ],
+        "body_traits": [
+          "slim build"
+        ],
+        "hair_traits": [
+          "bright red hair",
+          "medium length"
+        ],
+        "clothing_style": [
+          "dark jacket"
+        ],
+        "visual_color": [
+          "red",
+          "black"
+        ],
+        "props_or_accessories": []
+      }
+    },
+    {
+      "character_id": "char_3",
+      "salience_reason": "Blue robotic or armored figure near the left side, visually contrasting with others.",
+      "visual_cues": {
+        "species_traits": [
+          "robotic/armored"
+        ],
+        "face_features": [],
+        "facial_expression": [
+          "neutral"
+        ],
+        "body_traits": [
+          "mechanical/synthetic"
+        ],
+        "hair_traits": [],
+        "clothing_style": [
+          "armor-like"
+        ],
+        "visual_color": [
+          "blue"
+        ],
+        "props_or_accessories": []
+      }
+    }
+  ],
+  "appid": 1687950
+}

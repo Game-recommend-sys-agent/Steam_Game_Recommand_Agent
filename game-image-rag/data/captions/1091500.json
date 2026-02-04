@@ -1,0 +1,50 @@
+{
+  "image_caption": "A character with a mohawk hairstyle and cybernetic enhancements on their face and neck, wearing a dark jacket with a glowing symbol on the back, set against a vibrant yellow cityscape background with the title 'Cyberpunk 2077' in stylized text.",
+  "visual_keywords": [
+    "cybernetic enhancements",
+    "mohawk hairstyle",
+    "dark jacket",
+    "yellow background",
+    "glowing symbol",
+    "futuristic city",
+    "stylized text",
+    "tattoo",
+    "under-cut hair"
+  ],
+  "primary_character": {
+    "character_id": "char_1",
+    "salience_reason": "Central figure prominently displayed in the foreground with detailed features and facing backward while turning head to the side.",
+    "visual_cues": {
+      "species_traits": [
+        "human"
+      ],
+      "face_features": [
+        "cybernetic implants on face and neck"
+      ],
+      "facial_expression": [
+        "neutral"
+      ],
+      "body_traits": [
+        "slim build"
+      ],
+      "hair_traits": [
+        "mohawk",
+        "red and blue hair",
+        "under-cut"
+      ],
+      "clothing_style": [
+        "leather jacket"
+      ],
+      "visual_color": [
+        "dark jacket",
+        "red and blue hair",
+        "yellow background"
+      ],
+      "props_or_accessories": [
+        "glowing patch or emblem on jacket back"
+      ]
+    }
+  },
+  "salient_characters": [],
+  "appid": 1091500
+}

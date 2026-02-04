@@ -1,0 +1,86 @@
+{
+  "image_caption": "Two men holding weapons stand behind the game title Disco Elysium: The Final Cut, with an abstract cityscape background.",
+  "visual_keywords": [
+    "two men",
+    "weapons",
+    "glasses",
+    "beard",
+    "cityscape",
+    "painting style",
+    "action pose",
+    "gloves",
+    "text overlay"
+  ],
+  "primary_character": {
+    "character_id": "char_1",
+    "salience_reason": "More centered and positioned behind the text, larger visible area",
+    "visual_cues": {
+      "species_traits": [
+        "human"
+      ],
+      "face_features": [
+        "beard",
+        "mustache",
+        "broad face"
+      ],
+      "facial_expression": [
+        "serious"
+      ],
+      "body_traits": [
+        "stocky build"
+      ],
+      "hair_traits": [
+        "dark hair",
+        "medium length"
+      ],
+      "clothing_style": [
+        "white shirt"
+      ],
+      "visual_color": [
+        "white",
+        "brown"
+      ],
+      "props_or_accessories": [
+        "handgun",
+        "gloves"
+      ]
+    }
+  },
+  "salient_characters": [
+    {
+      "character_id": "char_2",
+      "salience_reason": "Contrasting lighter skin tone, glasses, and holding a crowbar",
+      "visual_cues": {
+        "species_traits": [
+          "human"
+        ],
+        "face_features": [
+          "glasses",
+          "clean-shaven",
+          "sharp eyes"
+        ],
+        "facial_expression": [
+          "neutral"
+        ],
+        "body_traits": [
+          "lean build"
+        ],
+        "hair_traits": [
+          "short dark hair"
+        ],
+        "clothing_style": [
+          "dark jacket"
+        ],
+        "visual_color": [
+          "dark blue",
+          "black"
+        ],
+        "props_or_accessories": [
+          "crowbar",
+          "gloves"
+        ]
+      }
+    }
+  ],
+  "appid": 632470
+}

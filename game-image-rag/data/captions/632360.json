@@ -1,0 +1,110 @@
+{
+  "image_caption": "Poster for Risk of Rain 2 showing five characters in various poses and equipment, with a large red abstract shape in the background and the game title text to the right.",
+  "visual_keywords": [
+    "futuristic",
+    "armor",
+    "helmet",
+    "guns",
+    "robotic",
+    "blue colors",
+    "action poses",
+    "technology",
+    "team",
+    "red background shape",
+    "bold text"
+  ],
+  "primary_character": {
+    "character_id": "char_1",
+    "salience_reason": "Positioned front and center, largest and most visually detailed.",
+    "visual_cues": {
+      "species_traits": [
+        "human"
+      ],
+      "face_features": [
+        "hidden by helmet"
+      ],
+      "facial_expression": [
+        "neutral"
+      ],
+      "body_traits": [
+        "muscular build",
+        "dynamic pose"
+      ],
+      "hair_traits": [],
+      "clothing_style": [
+        "futuristic armor"
+      ],
+      "visual_color": [
+        "blue",
+        "yellow helmet accents"
+      ],
+      "props_or_accessories": [
+        "helmet",
+        "large gun",
+        "robotic legs or mounts"
+      ]
+    }
+  },
+  "salient_characters": [
+    {
+      "character_id": "char_2",
+      "salience_reason": "Floating above the central character, distinguished by glowing elements and pose.",
+      "visual_cues": {
+        "species_traits": [
+          "human"
+        ],
+        "face_features": [
+          "visible face"
+        ],
+        "facial_expression": [
+          "neutral"
+        ],
+        "body_traits": [
+          "slim build",
+          "floating pose"
+        ],
+        "hair_traits": [
+          "white or light-colored short hair"
+        ],
+        "clothing_style": [
+          "futuristic outfit"
+        ],
+        "visual_color": [
+          "white and blue"
+        ],
+        "props_or_accessories": []
+      }
+    },
+    {
+      "character_id": "char_3",
+      "salience_reason": "To left, aiming gun, visually distinctive by pose and orientation.",
+      "visual_cues": {
+        "species_traits": [
+          "human"
+        ],
+        "face_features": [
+          "hidden by helmet or mask"
+        ],
+        "facial_expression": [
+          "neutral"
+        ],
+        "body_traits": [
+          "athletic build",
+          "aiming pose"
+        ],
+        "hair_traits": [],
+        "clothing_style": [
+          "futuristic armor"
+        ],
+        "visual_color": [
+          "gray",
+          "blue"
+        ],
+        "props_or_accessories": [
+          "gun"
+        ]
+      }
+    }
+  ],
+  "appid": 632360
+}

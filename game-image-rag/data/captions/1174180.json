@@ -1,0 +1,77 @@
+{
+  "image_caption": "A man in a cowboy hat aiming a revolver is shown prominently on the right, with silhouettes of five horse riding cowboys in the background and a bright orange circular shape behind him. The game's title 'Red Dead Redemption II' is displayed on the left side.",
+  "visual_keywords": [
+    "cowboy hat",
+    "revolver",
+    "red clothing",
+    "dark beard",
+    "horse riders silhouette",
+    "orange background circle",
+    "bandolier",
+    "dramatic lighting",
+    "western style"
+  ],
+  "primary_character": {
+    "character_id": "char_1",
+    "salience_reason": "Most visually emphasized by size, position, and bright background.",
+    "visual_cues": {
+      "species_traits": [
+        "human"
+      ],
+      "face_features": [
+        "dark beard"
+      ],
+      "facial_expression": [
+        "serious"
+      ],
+      "body_traits": [
+        "medium build"
+      ],
+      "hair_traits": [
+        "dark hair mostly covered by hat"
+      ],
+      "clothing_style": [
+        "western wear",
+        "red shirt",
+        "bandolier"
+      ],
+      "visual_color": [
+        "red",
+        "black",
+        "gray"
+      ],
+      "props_or_accessories": [
+        "revolver",
+        "cowboy hat",
+        "ammunition bandolier"
+      ]
+    }
+  },
+  "salient_characters": [
+    {
+      "character_id": "char_2",
+      "salience_reason": "Distinctive horse riding cowboy silhouettes in background.",
+      "visual_cues": {
+        "species_traits": [
+          "human"
+        ],
+        "face_features": [],
+        "facial_expression": [],
+        "body_traits": [
+          "riding horses"
+        ],
+        "hair_traits": [],
+        "clothing_style": [
+          "western wear"
+        ],
+        "visual_color": [
+          "black silhouette"
+        ],
+        "props_or_accessories": [
+          "horses"
+        ]
+      }
+    }
+  ],
+  "appid": 1174180
+}

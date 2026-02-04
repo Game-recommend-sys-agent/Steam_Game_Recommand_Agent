@@ -1,0 +1,36 @@
+```json
+{
+  "image_caption": "A video game poster for Horizon Zero Dawn Complete Edition featuring a woman in fur-lined armor with braided hair looking determinedly into the distance, against a backdrop of forest and snowy mountains, with two robotic dinosaur-like creatures in the middle ground.",
+  "visual_keywords": ["woman", "braided hair", "fur armor", "robotic dinosaurs", "forest", "mountains", "snow", "blue sky", "bow", "armor", "side profile"],
+  "primary_character": {
+    "character_id": "char_1",
+    "salience_reason": "largest character prominently displayed on the right side of the image",
+    "visual_cues": {
+      "species_traits": ["human"],
+      "face_features": ["clear skin", "no visible scars or markings"],
+      "facial_expression": ["serious", "focused"],
+      "body_traits": ["slim build"],
+      "hair_traits": ["long", "red hair", "braided"],
+      "clothing_style": ["fur-lined armor", "tribal style"],
+      "visual_color": ["brown", "white", "red"],
+      "props_or_accessories": ["bow strapped on back"]
+    }
+  },
+  "salient_characters": [
+    {
+      "character_id": "char_2",
+      "salience_reason": "two robotic dinosaur-like creatures featured in the middle ground",
+      "visual_cues": {
+        "species_traits": ["robotic", "dinosaur-like"],
+        "face_features": ["metallic faces with glowing parts"],
+        "facial_expression": ["neutral (mechanical)"],
+        "body_traits": ["large", "quadrupedal and bipedal forms"],
+        "hair_traits": [],
+        "clothing_style": [],
+        "visual_color": ["metallic gray", "blue lights"],
+        "props_or_accessories": []
+      }
+    }
+  ]
+}
+```

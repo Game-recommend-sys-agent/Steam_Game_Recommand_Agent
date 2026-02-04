@@ -1,0 +1,21 @@
+```json
+{
+  "image_caption": "A dark, foggy setting with a single small human figure standing on a platform near a large vertical beam and a large red text 'INSIDE' on the left side.",
+  "visual_keywords": ["dark", "foggy", "small figure", "platform", "shadow", "red text", "large beam", "nighttime", "minimalistic", "silhouette", "lonely", "industrial"],
+  "primary_character": {
+    "character_id": "char_1",
+    "salience_reason": "Only visible character in the image, centrally located on the platform.",
+    "visual_cues": {
+      "species_traits": ["human"],
+      "face_features": [],
+      "facial_expression": [],
+      "body_traits": ["small build"],
+      "hair_traits": ["short dark hair"],
+      "clothing_style": ["red shirt", "dark pants"],
+      "visual_color": ["red", "dark"],
+      "props_or_accessories": []
+    }
+  },
+  "salient_characters": []
+}
+```

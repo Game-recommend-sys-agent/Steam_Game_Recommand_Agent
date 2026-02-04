@@ -1,0 +1,52 @@
+{
+  "image_caption": "A glowing character with flaming hair and a glowing blue orb in one hand stands on the left, facing a ruined castle structure under a purple-orange sky with flying birds.",
+  "visual_keywords": [
+    "glowing",
+    "flaming hair",
+    "blue orb",
+    "ruined castle",
+    "birds flying",
+    "purple orange sky",
+    "silhouetted figure",
+    "glowing eyes",
+    "sword sheath",
+    "dynamic pose"
+  ],
+  "primary_character": {
+    "character_id": "char_1",
+    "salience_reason": "Most visually emphasized overall, large size, and colorful glowing effects.",
+    "visual_cues": {
+      "species_traits": [
+        "human"
+      ],
+      "face_features": [
+        "glowing eyes"
+      ],
+      "facial_expression": [
+        "neutral (face mostly obscured)"
+      ],
+      "body_traits": [
+        "slim build",
+        "dynamic pose"
+      ],
+      "hair_traits": [
+        "hair made of flames"
+      ],
+      "clothing_style": [
+        "adventurer outfit"
+      ],
+      "visual_color": [
+        "blue",
+        "orange",
+        "red",
+        "black"
+      ],
+      "props_or_accessories": [
+        "glowing blue orb",
+        "sword sheath on back"
+      ]
+    }
+  },
+  "salient_characters": [],
+  "appid": 588650
+}

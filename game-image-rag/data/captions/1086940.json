@@ -1,0 +1,111 @@
+{
+  "image_caption": "A dramatic fantasy game poster with five characters arranged prominently above the title 'Baldur's Gate IV' against a dark, fiery sky background.",
+  "visual_keywords": [
+    "fantasy",
+    "five characters",
+    "armor",
+    "dramatic lighting",
+    "dark sky",
+    "fire glows",
+    "medieval weapons",
+    "detailed costumes"
+  ],
+  "primary_character": {
+    "character_id": "char_1",
+    "salience_reason": "Centered position and largest size among characters",
+    "visual_cues": {
+      "species_traits": [
+        "human"
+      ],
+      "face_features": [
+        "white hair",
+        "sharp eyes"
+      ],
+      "facial_expression": [
+        "serious"
+      ],
+      "body_traits": [
+        "slim build",
+        "dynamic pose"
+      ],
+      "hair_traits": [
+        "short white hair"
+      ],
+      "clothing_style": [
+        "ornate armor with red and gold accents"
+      ],
+      "visual_color": [
+        "white hair",
+        "red and gold armor"
+      ],
+      "props_or_accessories": [
+        "ring glowing with light"
+      ]
+    }
+  },
+  "salient_characters": [
+    {
+      "character_id": "char_2",
+      "salience_reason": "Distinctive dark skin tone and muscular build",
+      "visual_cues": {
+        "species_traits": [
+          "human"
+        ],
+        "face_features": [
+          "strong jawline",
+          "short black hair"
+        ],
+        "facial_expression": [
+          "neutral"
+        ],
+        "body_traits": [
+          "muscular"
+        ],
+        "hair_traits": [
+          "short black hair"
+        ],
+        "clothing_style": [
+          "dark armor"
+        ],
+        "visual_color": [
+          "dark skin",
+          "black armor"
+        ],
+        "props_or_accessories": []
+      }
+    },
+    {
+      "character_id": "char_3",
+      "salience_reason": "Wearing a mask resembling a feline species and holding a sword",
+      "visual_cues": {
+        "species_traits": [
+          "possible animal-like features due to mask"
+        ],
+        "face_features": [
+          "mask with feline design"
+        ],
+        "facial_expression": [
+          "unknown due to mask"
+        ],
+        "body_traits": [
+          "slim build"
+        ],
+        "hair_traits": [
+          "long brown hair tied back"
+        ],
+        "clothing_style": [
+          "ornate armor"
+        ],
+        "visual_color": [
+          "brown",
+          "silver armor"
+        ],
+        "props_or_accessories": [
+          "sword",
+          "mask"
+        ]
+      }
+    }
+  ],
+  "appid": 1086940
+}

@@ -1,0 +1,100 @@
+{
+  "image_caption": "Three armored characters preparing to battle a large dragon-like monster in a rugged outdoor environment with mountains and sea in the background, alongside the 'Monster Hunter World' title text.",
+  "visual_keywords": [
+    "dragon",
+    "monster",
+    "armor",
+    "weapon",
+    "battle-ready",
+    "outdoors",
+    "mountains",
+    "sea",
+    "fantasy",
+    "epic",
+    "dark tones",
+    "dynamic pose",
+    "large wings"
+  ],
+  "primary_character": {
+    "character_id": "char_1",
+    "salience_reason": "Centrally placed and facing the monster in a dynamic battle-ready stance.",
+    "visual_cues": {
+      "species_traits": [
+        "human"
+      ],
+      "face_features": [],
+      "facial_expression": [
+        "serious"
+      ],
+      "body_traits": [
+        "muscular",
+        "dynamic pose"
+      ],
+      "hair_traits": [],
+      "clothing_style": [
+        "armor"
+      ],
+      "visual_color": [
+        "dark tones"
+      ],
+      "props_or_accessories": [
+        "large sword"
+      ]
+    }
+  },
+  "salient_characters": [
+    {
+      "character_id": "char_2",
+      "salience_reason": "On the right side with a distinct pose also wearing armor and preparing to strike.",
+      "visual_cues": {
+        "species_traits": [
+          "human"
+        ],
+        "face_features": [],
+        "facial_expression": [
+          "focused"
+        ],
+        "body_traits": [
+          "muscular"
+        ],
+        "hair_traits": [],
+        "clothing_style": [
+          "armor"
+        ],
+        "visual_color": [
+          "dark tones"
+        ],
+        "props_or_accessories": [
+          "weapon"
+        ]
+      }
+    },
+    {
+      "character_id": "char_3",
+      "salience_reason": "On the left side crouching with visible armor and weapon, creating a balanced composition.",
+      "visual_cues": {
+        "species_traits": [
+          "human"
+        ],
+        "face_features": [],
+        "facial_expression": [
+          "alert"
+        ],
+        "body_traits": [
+          "athletic"
+        ],
+        "hair_traits": [],
+        "clothing_style": [
+          "armor"
+        ],
+        "visual_color": [
+          "dark tones"
+        ],
+        "props_or_accessories": [
+          "bow"
+        ]
+      }
+    }
+  ],
+  "appid": 582010
+}

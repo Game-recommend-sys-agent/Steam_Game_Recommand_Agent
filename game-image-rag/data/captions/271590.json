@@ -1,0 +1,109 @@
+{
+  "image_caption": "A collage poster for the video game Grand Theft Auto V featuring three main human characters, vehicles including a helicopter, car, and jet ski, and a dog with an open mouth, as well as the game's title logo in the center.",
+  "visual_keywords": [
+    "collage",
+    "human characters",
+    "dog",
+    "vehicles",
+    "helicopter",
+    "car",
+    "jet ski",
+    "guns",
+    "helmet",
+    "outdoor",
+    "urban",
+    "sky",
+    "chain",
+    "logo"
+  ],
+  "primary_character": {
+    "character_id": "char_1",
+    "salience_reason": "Centered and largest human face near the title",
+    "visual_cues": {
+      "species_traits": [
+        "human"
+      ],
+      "face_features": [
+        "clean-shaven face"
+      ],
+      "facial_expression": [
+        "neutral"
+      ],
+      "body_traits": [],
+      "hair_traits": [
+        "short brown hair"
+      ],
+      "clothing_style": [
+        "business casual black jacket"
+      ],
+      "visual_color": [
+        "tan skin",
+        "dark hair"
+      ],
+      "props_or_accessories": [
+        "handgun"
+      ]
+    }
+  },
+  "salient_characters": [
+    {
+      "character_id": "char_2",
+      "salience_reason": "Large close-up of blonde woman holding a cellphone",
+      "visual_cues": {
+        "species_traits": [
+          "human"
+        ],
+        "face_features": [
+          "smooth skin"
+        ],
+        "facial_expression": [
+          "neutral"
+        ],
+        "body_traits": [],
+        "hair_traits": [
+          "long blonde hair"
+        ],
+        "clothing_style": [
+          "casual clothing"
+        ],
+        "visual_color": [
+          "light skin",
+          "blonde hair"
+        ],
+        "props_or_accessories": [
+          "cellphone"
+        ]
+      }
+    },
+    {
+      "character_id": "char_3",
+      "salience_reason": "Large image of dog with open mouth and chain collar",
+      "visual_cues": {
+        "species_traits": [
+          "dog"
+        ],
+        "face_features": [
+          "open mouth",
+          "visible teeth"
+        ],
+        "facial_expression": [],
+        "body_traits": [
+          "muscular"
+        ],
+        "hair_traits": [
+          "short dark fur"
+        ],
+        "clothing_style": [
+          "chain collar"
+        ],
+        "visual_color": [
+          "brown and black fur"
+        ],
+        "props_or_accessories": [
+          "chain collar"
+        ]
+      }
+    }
+  ],
+  "appid": 271590
+}

@@ -1,0 +1,113 @@
+{
+  "image_caption": "A group of diverse fantasy characters standing and floating together in a dramatic, warm-lit setting with the DOTA 2 logo below.",
+  "visual_keywords": [
+    "fantasy characters",
+    "armor",
+    "mythical creatures",
+    "bright lighting",
+    "red cape",
+    "animal companion",
+    "floating character",
+    "helmet",
+    "glowing eyes",
+    "varied species",
+    "different armors",
+    "dramatic posing",
+    "gold accents"
+  ],
+  "primary_character": {
+    "character_id": "char_1",
+    "salience_reason": "Centered and largest character with red cape and glowing helmet, visually emphasized.",
+    "visual_cues": {
+      "species_traits": [
+        "human"
+      ],
+      "face_features": [
+        "dark skin"
+      ],
+      "facial_expression": [
+        "neutral"
+      ],
+      "body_traits": [
+        "muscular build",
+        "standing pose"
+      ],
+      "hair_traits": [],
+      "clothing_style": [
+        "armor",
+        "red cape",
+        "helmet with glowing elements"
+      ],
+      "visual_color": [
+        "red",
+        "gold",
+        "black"
+      ],
+      "props_or_accessories": [
+        "helmet"
+      ]
+    }
+  },
+  "salient_characters": [
+    {
+      "character_id": "char_2",
+      "salience_reason": "Large white quadruped animal companion to the right of primary character.",
+      "visual_cues": {
+        "species_traits": [
+          "large animal",
+          "four-legged"
+        ],
+        "face_features": [
+          "feline-like face",
+          "frowning mouth"
+        ],
+        "facial_expression": [
+          "neutral"
+        ],
+        "body_traits": [
+          "large, muscular"
+        ],
+        "hair_traits": [
+          "white fur"
+        ],
+        "clothing_style": [],
+        "visual_color": [
+          "white"
+        ],
+        "props_or_accessories": []
+      }
+    },
+    {
+      "character_id": "char_3",
+      "salience_reason": "Floating purple-skinned character in the upper right corner with wings.",
+      "visual_cues": {
+        "species_traits": [
+          "winged humanoid"
+        ],
+        "face_features": [
+          "large eyes"
+        ],
+        "facial_expression": [
+          "neutral"
+        ],
+        "body_traits": [
+          "slim build",
+          "floating pose"
+        ],
+        "hair_traits": [
+          "blue-green hair"
+        ],
+        "clothing_style": [
+          "light armor"
+        ],
+        "visual_color": [
+          "purple",
+          "blue-green",
+          "pink"
+        ],
+        "props_or_accessories": []
+      }
+    }
+  ],
+  "appid": 570
+}

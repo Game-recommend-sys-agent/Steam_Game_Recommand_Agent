@@ -1,0 +1,49 @@
+{
+  "image_caption": "Illustration of a female character with blue and purple hair, freckles, and closed eyes with a blue tear streak on one cheek, set against a soft gradient background with the word 'GRIS' above her head.",
+  "visual_keywords": [
+    "female",
+    "blue hair",
+    "purple hair",
+    "freckles",
+    "closed eyes",
+    "tear streak",
+    "soft colors",
+    "gradient background",
+    "short hair",
+    "neutral expression"
+  ],
+  "primary_character": {
+    "character_id": "char_1",
+    "salience_reason": "The character is the centered and sole human figure prominently displayed.",
+    "visual_cues": {
+      "species_traits": [
+        "human"
+      ],
+      "face_features": [
+        "freckles",
+        "closed eyes"
+      ],
+      "facial_expression": [
+        "neutral"
+      ],
+      "body_traits": [
+        "head and shoulders visible"
+      ],
+      "hair_traits": [
+        "blue hair",
+        "purple hair",
+        "short",
+        "wavy"
+      ],
+      "clothing_style": [],
+      "visual_color": [
+        "blue",
+        "purple",
+        "pinkish skin tone"
+      ],
+      "props_or_accessories": []
+    }
+  },
+  "salient_characters": [],
+  "appid": 683320
+}

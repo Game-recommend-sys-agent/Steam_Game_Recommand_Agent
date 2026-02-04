@@ -1,0 +1,49 @@
+{
+  "image_caption": "A robotic humanoid character leaps through two glowing portals, one blue and one orange, set in a futuristic industrial environment. The text 'PORTAL 2' is displayed above the character.",
+  "visual_keywords": [
+    "robotic",
+    "humanoid",
+    "white",
+    "blue glowing portal",
+    "orange glowing portal",
+    "industrial background",
+    "dynamic pose",
+    "mechanical joints",
+    "yellow eye light",
+    "white armor"
+  ],
+  "primary_character": {
+    "character_id": "char_1",
+    "salience_reason": "Central and largest figure, dynamically posed between two portals",
+    "visual_cues": {
+      "species_traits": [
+        "robotic",
+        "humanoid"
+      ],
+      "face_features": [
+        "one yellow glowing eye"
+      ],
+      "facial_expression": [
+        "neutral"
+      ],
+      "body_traits": [
+        "slim build",
+        "mechanical joints",
+        "dynamic pose"
+      ],
+      "hair_traits": [],
+      "clothing_style": [
+        "white armor plating"
+      ],
+      "visual_color": [
+        "white",
+        "black",
+        "gray",
+        "yellow light"
+      ],
+      "props_or_accessories": []
+    }
+  },
+  "salient_characters": [],
+  "appid": 620
+}

@@ -1,0 +1,75 @@
+{
+  "image_caption": "A glowing white small creature and a larger dark blue bird-like creature stand together on a branch in a mystical forest with large tree trunks and a purple-blue glowing background, alongside the text 'Ori and the Will of the Wisps.'",
+  "visual_keywords": [
+    "glowing",
+    "small creature",
+    "bird",
+    "branch",
+    "mystical forest",
+    "purple-blue background",
+    "large tree trunks",
+    "white",
+    "dark blue",
+    "large eyes"
+  ],
+  "primary_character": {
+    "character_id": "char_1",
+    "salience_reason": "Centered on the right with glowing white appearance, visually brightest and draws focus",
+    "visual_cues": {
+      "species_traits": [
+        "small creature",
+        "elf-like ears"
+      ],
+      "face_features": [
+        "large eyes"
+      ],
+      "facial_expression": [
+        "neutral"
+      ],
+      "body_traits": [
+        "slim build",
+        "small size"
+      ],
+      "hair_traits": [
+        "white glowing fur"
+      ],
+      "clothing_style": [],
+      "visual_color": [
+        "white",
+        "glowing"
+      ],
+      "props_or_accessories": []
+    }
+  },
+  "salient_characters": [
+    {
+      "character_id": "char_2",
+      "salience_reason": "Directly next to primary character, distinct dark blue bird with large eyes",
+      "visual_cues": {
+        "species_traits": [
+          "bird-like"
+        ],
+        "face_features": [
+          "large eyes"
+        ],
+        "facial_expression": [
+          "neutral"
+        ],
+        "body_traits": [
+          "medium size",
+          "perched"
+        ],
+        "hair_traits": [
+          "feathers"
+        ],
+        "clothing_style": [],
+        "visual_color": [
+          "dark blue",
+          "orange eye color"
+        ],
+        "props_or_accessories": []
+      }
+    }
+  ],
+  "appid": 1057090
+}

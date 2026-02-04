@@ -1,0 +1,21 @@
+```json
+{
+  "image_caption": "A pixel art landscape featuring a tree, a pine tree, a wooden fence, mountains in the background, a chicken, and the text 'STARDew VALLEY' with leaves integrated into the letters.",
+  "visual_keywords": ["pixel art", "tree", "pine tree", "wooden fence", "mountains", "chicken", "blue sky", "clouds", "greenery", "text", "leaves"],
+  "primary_character": {
+    "character_id": "char_1",
+    "salience_reason": "The only living creature present in the image.",
+    "visual_cues": {
+      "species_traits": ["chicken"],
+      "face_features": [],
+      "facial_expression": [],
+      "body_traits": ["small", "round body"],
+      "hair_traits": [],
+      "clothing_style": [],
+      "visual_color": ["brown", "red comb"],
+      "props_or_accessories": []
+    }
+  },
+  "salient_characters": []
+}
+```

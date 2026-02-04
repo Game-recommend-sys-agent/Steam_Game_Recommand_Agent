@@ -1,0 +1,117 @@
+{
+  "image_caption": "Poster for the video game NieR: Automata featuring three android characters in a post-apocalyptic city environment with ruined buildings and robotic enemies around.",
+  "visual_keywords": [
+    "android",
+    "post-apocalyptic",
+    "ruins",
+    "robots",
+    "weapons",
+    "urban decay",
+    "futuristic",
+    "black clothing",
+    "blindfolds",
+    "swords",
+    "dynamic poses",
+    "gray hair",
+    "white hair"
+  ],
+  "primary_character": {
+    "character_id": "char_1",
+    "salience_reason": "Centered figure with largest size and front-most position",
+    "visual_cues": {
+      "species_traits": [
+        "human-like android"
+      ],
+      "face_features": [
+        "covered eyes (blindfold)"
+      ],
+      "facial_expression": [
+        "neutral"
+      ],
+      "body_traits": [
+        "slim build",
+        "dynamic pose"
+      ],
+      "hair_traits": [
+        "short gray hair"
+      ],
+      "clothing_style": [
+        "black futuristic dress with cutouts"
+      ],
+      "visual_color": [
+        "black",
+        "gray"
+      ],
+      "props_or_accessories": [
+        "long sword"
+      ]
+    }
+  },
+  "salient_characters": [
+    {
+      "character_id": "char_2",
+      "salience_reason": "Left figure visually prominent and holding a weapon",
+      "visual_cues": {
+        "species_traits": [
+          "human-like android"
+        ],
+        "face_features": [
+          "covered eyes (blindfold)"
+        ],
+        "facial_expression": [
+          "neutral"
+        ],
+        "body_traits": [
+          "slim build",
+          "dynamic pose"
+        ],
+        "hair_traits": [
+          "short white hair"
+        ],
+        "clothing_style": [
+          "black futuristic uniform"
+        ],
+        "visual_color": [
+          "black",
+          "white"
+        ],
+        "props_or_accessories": [
+          "long weapon (spear or polearm)"
+        ]
+      }
+    },
+    {
+      "character_id": "char_3",
+      "salience_reason": "Right figure airborne and distinct smaller size",
+      "visual_cues": {
+        "species_traits": [
+          "human-like android"
+        ],
+        "face_features": [
+          "covered eyes (blindfold)"
+        ],
+        "facial_expression": [
+          "neutral"
+        ],
+        "body_traits": [
+          "slim build",
+          "dynamic airborne pose"
+        ],
+        "hair_traits": [
+          "long white hair"
+        ],
+        "clothing_style": [
+          "black futuristic outfit"
+        ],
+        "visual_color": [
+          "black",
+          "white"
+        ],
+        "props_or_accessories": [
+          "dual short weapons (swords or daggers)"
+        ]
+      }
+    }
+  ],
+  "appid": 524220
+}

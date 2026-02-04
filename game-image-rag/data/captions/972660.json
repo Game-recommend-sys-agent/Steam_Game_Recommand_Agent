@@ -1,0 +1,61 @@
+{
+  "image_caption": "A silhouetted figure rows a boat on red water towards a large glowing circular portal with silhouettes of various characters inside it, set against an orange sky with tree branches framing the scene.",
+  "visual_keywords": [
+    "silhouetted figure",
+    "boat",
+    "red water",
+    "glowing portal",
+    "circular shape",
+    "silhouetted characters",
+    "orange sky",
+    "tree branches",
+    "birds"
+  ],
+  "primary_character": {
+    "character_id": "char_1",
+    "salience_reason": "most visually emphasized figure rowing the boat in front of the glowing portal",
+    "visual_cues": {
+      "species_traits": [
+        "human silhouette"
+      ],
+      "face_features": [],
+      "facial_expression": [],
+      "body_traits": [
+        "small build",
+        "seated pose"
+      ],
+      "hair_traits": [],
+      "clothing_style": [],
+      "visual_color": [
+        "black silhouette"
+      ],
+      "props_or_accessories": [
+        "boat",
+        "paddle"
+      ]
+    }
+  },
+  "salient_characters": [
+    {
+      "character_id": "char_2",
+      "salience_reason": "silhouetted characters visible inside the glowing portal in the background",
+      "visual_cues": {
+        "species_traits": [
+          "varied humanoid and possibly mythical features"
+        ],
+        "face_features": [
+          "antlers on one character"
+        ],
+        "facial_expression": [],
+        "body_traits": [],
+        "hair_traits": [],
+        "clothing_style": [],
+        "visual_color": [
+          "white silhouettes"
+        ],
+        "props_or_accessories": []
+      }
+    }
+  ],
+  "appid": 972660
+}

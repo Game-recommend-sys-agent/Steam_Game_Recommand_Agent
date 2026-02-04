@@ -1,0 +1,57 @@
+{
+  "image_caption": "A man with long white hair and armor holds a sword at the ready in a snowy mountainous landscape with the title 'The Witcher Wild Hunt' displayed to the right.",
+  "visual_keywords": [
+    "white hair",
+    "armor",
+    "sword",
+    "mountain",
+    "snow",
+    "gray eyes",
+    "scar",
+    "medieval",
+    "beard",
+    "serious expression",
+    "gray background"
+  ],
+  "primary_character": {
+    "character_id": "char_1",
+    "salience_reason": "Centered and largest figure prominently holding a sword",
+    "visual_cues": {
+      "species_traits": [
+        "human"
+      ],
+      "face_features": [
+        "scar on left cheek",
+        "light stubble beard",
+        "sharp eyes"
+      ],
+      "facial_expression": [
+        "serious"
+      ],
+      "body_traits": [
+        "muscular build",
+        "dynamic pose"
+      ],
+      "hair_traits": [
+        "long",
+        "white",
+        "tied back"
+      ],
+      "clothing_style": [
+        "battle armor",
+        "medieval style"
+      ],
+      "visual_color": [
+        "gray",
+        "black",
+        "white"
+      ],
+      "props_or_accessories": [
+        "sword",
+        "gloves"
+      ]
+    }
+  },
+  "salient_characters": [],
+  "appid": 292030
+}

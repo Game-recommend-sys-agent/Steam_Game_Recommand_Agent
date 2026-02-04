@@ -1,0 +1,48 @@
+{
+  "image_caption": "A character with a white, horned head and black eyes wearing a dark flowing cape stands on a twisted root or branch holding a sharp nail-like weapon, with the title 'HOLLOW KNIGHT' displayed above.",
+  "visual_keywords": [
+    "white head",
+    "horns",
+    "black eyes",
+    "dark cape",
+    "sharp weapon",
+    "twisted branch",
+    "monochrome",
+    "silhouette",
+    "light rays"
+  ],
+  "primary_character": {
+    "character_id": "char_1",
+    "salience_reason": "The central figure prominently placed at the bottom left with bright white head and large black eyes contrasting against the darker background.",
+    "visual_cues": {
+      "species_traits": [
+        "insect-like features",
+        "horns"
+      ],
+      "face_features": [
+        "large black eyes",
+        "smooth white face"
+      ],
+      "facial_expression": [
+        "neutral"
+      ],
+      "body_traits": [
+        "small slender body"
+      ],
+      "hair_traits": [],
+      "clothing_style": [
+        "flowing dark cape"
+      ],
+      "visual_color": [
+        "white",
+        "black",
+        "dark blue"
+      ],
+      "props_or_accessories": [
+        "sharp nail-like weapon"
+      ]
+    }
+  },
+  "salient_characters": [],
+  "appid": 367520
+}

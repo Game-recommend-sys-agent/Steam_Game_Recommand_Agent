@@ -1,0 +1,111 @@
+{
+  "image_caption": "Poster for Devil May Cry 5 featuring three characters standing in a dimly lit urban environment with the game's title in the center.",
+  "visual_keywords": [
+    "urban",
+    "dark",
+    "three characters",
+    "blue coat",
+    "red coat",
+    "short hair",
+    "long coat",
+    "weapon",
+    "fantasy",
+    "night",
+    "metallic weapon",
+    "dynamic pose"
+  ],
+  "primary_character": {
+    "character_id": "char_1",
+    "salience_reason": "Positioned centrally with wings-like blue and red energy behind, facing away from viewer.",
+    "visual_cues": {
+      "species_traits": [
+        "human"
+      ],
+      "face_features": [],
+      "facial_expression": [
+        "neutral (back turned)"
+      ],
+      "body_traits": [
+        "slim build",
+        "standing pose"
+      ],
+      "hair_traits": [
+        "white hair",
+        "short"
+      ],
+      "clothing_style": [
+        "long blue coat"
+      ],
+      "visual_color": [
+        "blue",
+        "red (energy wings)"
+      ],
+      "props_or_accessories": [
+        "large weapon on back"
+      ]
+    }
+  },
+  "salient_characters": [
+    {
+      "character_id": "char_2",
+      "salience_reason": "Character on the left in a red coat holding a weapon, visually distinctive by coat color.",
+      "visual_cues": {
+        "species_traits": [
+          "human"
+        ],
+        "face_features": [],
+        "facial_expression": [
+          "neutral (side view)"
+        ],
+        "body_traits": [
+          "athletic build",
+          "standing pose"
+        ],
+        "hair_traits": [
+          "dark hair",
+          "short"
+        ],
+        "clothing_style": [
+          "long red coat"
+        ],
+        "visual_color": [
+          "red"
+        ],
+        "props_or_accessories": [
+          "held weapon"
+        ]
+      }
+    },
+    {
+      "character_id": "char_3",
+      "salience_reason": "Character on the right in darker clothing, holding a weapon, adds visual balance.",
+      "visual_cues": {
+        "species_traits": [
+          "human"
+        ],
+        "face_features": [],
+        "facial_expression": [
+          "neutral (side view)"
+        ],
+        "body_traits": [
+          "muscular build",
+          "standing pose"
+        ],
+        "hair_traits": [
+          "short hair"
+        ],
+        "clothing_style": [
+          "dark outfit"
+        ],
+        "visual_color": [
+          "black",
+          "grey"
+        ],
+        "props_or_accessories": [
+          "held weapon"
+        ]
+      }
+    }
+  ],
+  "appid": 601150
+}

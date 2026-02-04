@@ -1,0 +1,44 @@
+{
+  "image_caption": "A colorful poster featuring a stylized character with a large weapon, overlaid by the bold text 'KATANA ZERO' in neon-style lettering.",
+  "visual_keywords": [
+    "neon colors",
+    "purple",
+    "cyan",
+    "pink",
+    "character with katana",
+    "motion blur",
+    "urban background",
+    "bold text",
+    "stylized art"
+  ],
+  "primary_character": {
+    "character_id": "char_1",
+    "salience_reason": "Most visually emphasized figure in the center wielding a katana weapon.",
+    "visual_cues": {
+      "species_traits": [
+        "human"
+      ],
+      "face_features": [],
+      "facial_expression": [],
+      "body_traits": [
+        "dynamic pose"
+      ],
+      "hair_traits": [
+        "spiky hair"
+      ],
+      "clothing_style": [
+        "jacket"
+      ],
+      "visual_color": [
+        "pink",
+        "purple",
+        "yellow highlights"
+      ],
+      "props_or_accessories": [
+        "katana sword"
+      ]
+    }
+  },
+  "salient_characters": [],
+  "appid": 460950
+}

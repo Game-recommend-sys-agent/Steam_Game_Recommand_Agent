@@ -1,0 +1,44 @@
+{
+  "image_caption": "A fantasy-themed game poster with a warrior in armor holding a weapon with a fiery background and the title 'Slay the Spire' in yellow letters.",
+  "visual_keywords": [
+    "fantasy",
+    "warrior",
+    "armor",
+    "weapon",
+    "fiery background",
+    "yellow text",
+    "dark",
+    "epic",
+    "game title"
+  ],
+  "primary_character": {
+    "character_id": "char_1",
+    "salience_reason": "Largest and most visually emphasized character facing away holding a weapon in front of fiery background.",
+    "visual_cues": {
+      "species_traits": [
+        "human"
+      ],
+      "face_features": [],
+      "facial_expression": [],
+      "body_traits": [
+        "muscular",
+        "broad shoulders"
+      ],
+      "hair_traits": [
+        "short, dark hair"
+      ],
+      "clothing_style": [
+        "armor"
+      ],
+      "visual_color": [
+        "dark armor",
+        "brown skin tone"
+      ],
+      "props_or_accessories": [
+        "large weapon (axe or halberd)"
+      ]
+    }
+  },
+  "salient_characters": [],
+  "appid": 646570
+}

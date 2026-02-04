@@ -1,0 +1,87 @@
+{
+  "image_caption": "A yellow poster for the video game 'Cuphead' featuring two cartoon characters with cup-shaped heads wearing shorts and gloves, standing side by side smiling.",
+  "visual_keywords": [
+    "cartoon",
+    "cup-shaped heads",
+    "red shorts",
+    "blue shorts",
+    "gloves",
+    "big shoes",
+    "smiling",
+    "yellow background",
+    "retro style",
+    "black and white faces",
+    "striped straws"
+  ],
+  "primary_character": {
+    "character_id": "char_1",
+    "salience_reason": "One of two central characters visually emphasized by size and placement on the poster.",
+    "visual_cues": {
+      "species_traits": [
+        "human-like cartoon"
+      ],
+      "face_features": [
+        "round eyes",
+        "cup-shaped head",
+        "blue nose"
+      ],
+      "facial_expression": [
+        "smiling"
+      ],
+      "body_traits": [
+        "lean build",
+        "dynamic pose"
+      ],
+      "hair_traits": [],
+      "clothing_style": [
+        "blue shorts",
+        "white gloves"
+      ],
+      "visual_color": [
+        "blue",
+        "white",
+        "black"
+      ],
+      "props_or_accessories": [
+        "striped straw on head"
+      ]
+    }
+  },
+  "salient_characters": [
+    {
+      "character_id": "char_2",
+      "salience_reason": "Second central character visually distinctive by color and similar cup-shaped head.",
+      "visual_cues": {
+        "species_traits": [
+          "human-like cartoon"
+        ],
+        "face_features": [
+          "round eyes",
+          "cup-shaped head",
+          "red nose"
+        ],
+        "facial_expression": [
+          "smiling"
+        ],
+        "body_traits": [
+          "lean build",
+          "dynamic pose"
+        ],
+        "hair_traits": [],
+        "clothing_style": [
+          "red shorts",
+          "white gloves"
+        ],
+        "visual_color": [
+          "red",
+          "white",
+          "black"
+        ],
+        "props_or_accessories": [
+          "striped straw on head"
+        ]
+      }
+    }
+  ],
+  "appid": 268910
+}

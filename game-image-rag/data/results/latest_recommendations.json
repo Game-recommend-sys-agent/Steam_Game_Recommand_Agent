@@ -1,0 +1,51 @@
+{
+  "user_input": "우는 게 예쁠 것 같은 어두운 분위기의 여성 캐릭터 추천해줘",
+  "top_k": 5,
+  "results": [
+    {
+      "rank": 1,
+      "appid": 683320,
+      "game_name": "appid_683320",
+      "score": 0.8018862657360347,
+      "image_path": "data/images/683320.jpg",
+      "image_caption": "Illustration of a female character with blue and purple hair, freckles, and closed eyes with a blue tear streak on one cheek, set against a soft gradient background with the word 'GRIS' above her head.",
+      "visual_summary": "face_features: freckles, closed eyes freckles, closed eyes\nfacial_expression: neutral neutral\nvisual_color: blue, purple, pinkish skin tone blue, purple, pinkish skin tone\nhair_traits: blue hair, purple hair, short, wavy\nbody_traits: head and shoulders visible\nspecies_traits: "
+    },
+    {
+      "rank": 2,
+      "appid": 504230,
+      "game_name": "appid_504230",
+      "score": 0.7846305733363244,
+      "image_path": "data/images/504230.jpg",
+      "image_caption": "A video game poster for 'Celeste' featuring a character in a light blue jacket reaching forward, a winged strawberry creature, and a person sitting in the background with magenta hair.",
+      "visual_summary": "face_features: large eyes, eyebrows large eyes, eyebrows\nfacial_expression: determined determined\nvisual_color: red/orange hair, light blue clothing red/orange hair, light blue clothing\nhair_traits: long, red/orange\nclothing_style: light blue jacket\nbody_traits: slim build, dynamic pose\nspecies_traits: "
+    },
+    {
+      "rank": 3,
+      "appid": 367520,
+      "game_name": "appid_367520",
+      "score": 0.7808108228816968,
+      "image_path": "data/images/367520.jpg",
+      "image_caption": "A character with a white, horned head and black eyes wearing a dark flowing cape stands on a twisted root or branch holding a sharp nail-like weapon, with the title 'HOLLOW KNIGHT' displayed above.",
+      "visual_summary": "face_features: large black eyes, smooth white face large black eyes, smooth white face\nfacial_expression: neutral neutral\nvisual_color: white, black, dark blue white, black, dark blue\nprops_or_accessories: sharp nail-like weapon\nclothing_style: flowing dark cape\nbody_traits: small slender body\nspecies_traits: "
+    },
+    {
+      "rank": 4,
+      "appid": 1057090,
+      "game_name": "appid_1057090",
+      "score": 0.7773983821807542,
+      "image_path": "data/images/1057090.jpg",
+      "image_caption": "A glowing white small creature and a larger dark blue bird-like creature stand together on a branch in a mystical forest with large tree trunks and a purple-blue glowing background, alongside the text 'Ori and the Will of the Wisps.'",
+      "visual_summary": "face_features: large eyes large eyes\nfacial_expression: neutral neutral\nvisual_color: white, glowing white, glowing\nhair_traits: white glowing fur\nbody_traits: slim build, small size\nspecies_traits: "
+    },
+    {
+      "rank": 5,
+      "appid": 1151640,
+      "game_name": "appid_1151640",
+      "score": 0.7765906647170188,
+      "image_path": "data/images/1151640.jpg",
+      "image_caption": "A video game poster for Horizon Zero Dawn Complete Edition featuring a woman in fur-lined armor with braided hair looking determinedly into the distance, against a backdrop of forest and snowy mountains, with two robotic dinosaur-like creatures in the middle ground.",
+      "visual_summary": "face_features: clear skin, no visible scars or markings clear skin, no visible scars or markings\nfacial_expression: serious, focused serious, focused\nvisual_color: brown, white, red brown, white, red\nprops_or_accessories: bow strapped on back\nhair_traits: long, red hair, braided\nclothing_style: fur-lined armor, tribal style\nbody_traits: slim build\nspecies_traits: "
+    }
+  ]
+}
