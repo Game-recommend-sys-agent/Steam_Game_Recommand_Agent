@@ -1,0 +1,13 @@
+{
+  "narrative_result": {
+    "emotional_tone": ["melancholic", "immersive"],
+    "narrative_focus": "character_relationship",
+    "char_personality_tags": ["cool", "tsundere"],
+    "avoidance_flags": ["high_violence"]
+  },
+  "meta_input": {
+    "world_setting_tags": ["cyberpunk"],
+    "char_species": ["cat"],
+    "char_visual_style": ["anime"]
+  }
+}

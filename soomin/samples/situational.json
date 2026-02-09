@@ -1,0 +1,10 @@
+{
+  "user": {
+    "available_time_window": 30,
+    "recent_playtime_2weeks": [120, 90, 45],
+    "last_played_gap_minutes": 180
+  },
+  "time": {
+    "datetime": "2026-02-09T01:30:00"
+  }
+}

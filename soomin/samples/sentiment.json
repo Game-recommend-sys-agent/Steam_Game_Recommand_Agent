@@ -1,0 +1,16 @@
+{
+  "review_analysis": {
+    "aspect_weights": {
+      "story": 0.4,
+      "graphics": 0.2,
+      "gameplay": 0.15,
+      "music": 0.1,
+      "immersion": 0.1,
+      "difficulty": 0.05
+    },
+    "churn_triggers": ["bugs", "grinding"]
+  },
+  "user_input": {
+    "current_mood_tag": ["stress_relief"]
+  }
+}
