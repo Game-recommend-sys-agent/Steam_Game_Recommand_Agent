@@ -1,0 +1,37 @@
+{
+  "emotional_persistence": "stable",
+  "emotional_rhythm": "slow-wave",
+  "emotional_residue": "lingering",
+  "dominant_affect": "hopeful",
+  "affect_distribution": {
+    "hopeful": 0.6,
+    "anxious": 0.2,
+    "melancholic": 0.15,
+    "neutral": 0.05
+  },
+  "experience_frame_distribution": {
+    "curious": 0.5,
+    "duty-bound": 0.3,
+    "desperate": 0.2
+  },
+  "world_dynamics_distribution": {
+    "space-driven": 0.5,
+    "event-driven": 0.35,
+    "interaction-driven": 0.15
+  },
+  "rationale": {
+    "key_track_signals": [
+      "Track titles like 'Forever Skies Main Theme', 'Clear Skies', 'New Nature Territory', and 'Ending: The Cure' suggest an overarching hopeful and uplifting tone.",
+      "Longer ambient tracks such as 'Scavenging Ruined Skies', 'Underdust', and 'Infected Gardens' imply a stable, immersive atmosphere with slow emotional shifts.",
+      "Presence of alternate versions of tracks indicates subtle variations in mood but overall consistency.",
+      "Ending tracks 'The Cure' and 'The Virus' imply narrative resolution with emotional weight, supporting lingering emotional residue."
+    ],
+    "structural_signals": [
+      "The soundtrack order moves from arrival and exploration ('Arrival', 'Sagittarius Station II') through survival and scavenging ('Scavenging Ruined Skies', 'Defend Yourself') to resolution ('Ending: The Cure').",
+      "Shorter tracks like 'Take Off', 'Ascend', and 'Descend' suggest transitions or moments of movement, supporting a slow-wave rhythm rather than spikes.",
+      "The game metadata describing a post-apocalyptic survival with crafting and exploration supports a curious and duty-bound experience frame.",
+      "The world dynamics lean towards space-driven due to airship flight and exploration, with event-driven elements from survival threats."
+    ],
+    "notes": "Overall, the emotional structure is stable and slow-moving with a hopeful dominant affect reflecting the player's journey to save humanity in a ruined world. The experience is framed by curiosity and duty, with a world shaped by spatial exploration and survival events."
+  }
+}
